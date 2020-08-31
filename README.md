@@ -30,7 +30,7 @@ Format -
 ####`df.iloc[row,col]` -    
 used for index operators
 
-####New column creation-
+####New column creation-  
 `df['newColumn'] = df.someColumn * df.otherColumn`  
 not like this-   
 `df.newColumn = some shit`
