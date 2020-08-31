@@ -15,11 +15,11 @@ Every function returns a Pandas Dataframe. Pandas is a god send and will allow y
 
 ### Pandas code basics-
 
-####`df` == dataframe  
+#### `df` == dataframe  
 the standardized unit of data transactions in python
 
 
-####`df.loc[]` -  
+#### `df.loc[]` -  
 ie. `df.loc[df.index == '2019-08-01']`  
 
 Format -  
@@ -27,15 +27,15 @@ Format -
 
 `df.loc[df.someColumn (some boolean combination with | & operators and heavy parenthisis to separate a combo bool]`
 
-####`df.iloc[row,col]` -    
+#### `df.iloc[row,col]` -    
 used for index operators
 
-####New column creation-
+#### New column creation-  
 `df['newColumn'] = df.someColumn * df.otherColumn`  
 not like this-   
 `df.newColumn = some shit`
 
-####if you are looking at a for loop / while loop situation look at documentation for numpy.vectorize first: 
+#### if you are looking at a for loop / while loop situation look at documentation for numpy.vectorize first: 
 https://numpy.org/doc/stable/reference/generated/numpy.vectorize.html
 `
 
