@@ -8,6 +8,6 @@ print('close for each day')
 print(x.Close)
 
 print('close on August 1 2019')
-print(x.loc[x.index == '2019-08-01'])
+print(x.loc[x.index == '2019-08-01'].Close)
 
 
