@@ -1,6 +1,12 @@
 # Stack That Cash
 Comprehensive TA functions in Python. [Source of TA functions](https://www.tradingtechnologies.com/xtrader-help/x-study/technical-indicator-definitions/list-of-technical-indicators/)
 
+# Alpaca for buying / selling ****************
+
+# Trend and mean reversion
+
+# 
+
 ### Dependencies - 
 `pip install pandas-datareader`  
 `pip install yfinance`
@@ -17,6 +23,11 @@ Every function returns a Pandas Dataframe. Pandas is a god send and will allow y
 
 #### `df` == dataframe  
 the standardized unit of data transactions in python
+
+
+# if lower than recent high (1-3 weeks)
+# and recent high preceded by close / lower than current low
+# and previous to previous low there was a previous high, higher than the recent high all within a 90-120 day period
 
 
 #### `df.loc[]` -  

@@ -1,0 +1,1001 @@
+,ticker,compName,volume
+0,HR,Healthcare Realty Trust Incorporated Common Stock,1340309.6385542168
+0,LPCN,Lipocine Inc.,1342083.1325301204
+0,PRGO,Perrigo,1342144.5783132531
+0,DRRX,DURECT Corporation,1343609.6385542168
+0,TTMI,"TTM Technologies, Inc.",1344704.8192771084
+0,TIVO,TiVo Inc.,1347853.0120481928
+0,WSM,Williams,1347945.78313253
+0,AWK,American Water Works Company Inc,1352034.939759036
+0,WMC,Western Asset Mortgage Capital Corporation Common Stock,1353008.4337349397
+0,TRN,"Trinity Industries, Inc. Common Stock",1355427.7108433736
+0,RJF,"Raymond James Financial, Inc. Common Stock",1356284.3373493976
+0,OXLC,Oxford Lane Capital Corp.,1358159.0361445784
+0,RH,Restoration Hardware Holdings Inc. Common Stock,1360693.9759036144
+0,INSM,"Insmed, Inc.",1362050.6024096385
+0,CDW,CDW Corporation,1363171.0843373493
+0,TSU,TIM Participacoes S.A. American Depositary Shares (Each representing 5 Common Shares),1364980.7228915663
+0,CBAY,CymaBay Therapeutics Inc.,1365400.0
+0,PACD,Pacific Drilling S.A. Common Shares,1367808.4337349397
+0,ETM,Entercom Communications Corporation Common Stock,1368274.6987951808
+0,PDCO,"Patterson Companies, Inc.",1369621.686746988
+0,IRBT,iRobot Corporation,1372492.7710843373
+0,FLS,Flowserve Corporation Common Stock,1373074.6987951808
+0,BG,Bunge Limited Bunge Limited,1378881.9277108433
+0,BAH,Booz Allen Hamilton Holding Corporation Common Stock,1380556.626506024
+0,USA,Liberty All,1384962.6506024096
+0,NS,Nustar Energy L.P.  Common Units,1386456.626506024
+0,L,Loews Corporation Common Stock,1391027.7108433736
+0,AKBA,"Akebia Therapeutics, Inc.",1393742.1686746988
+0,INN,"Summit Hotel Properties, Inc. Common Stock",1394334.939759036
+0,MEIP,"MEI Pharma, Inc.",1395934.939759036
+0,BCE,"BCE, Inc. Common Stock",1396933.7349397591
+0,TK,Teekay Corporation Common Stock,1398984.3373493976
+0,LEG,"Leggett & Platt, Incorporated Common Stock",1399644.5783132531
+0,PACW,PacWest Bancorp,1402131.3253012048
+0,TPX,"Tempur Sealy International, Inc. Common Stock",1403522.8915662651
+0,ACAD,ACADIA Pharmaceuticals Inc.,1405309.6385542168
+0,DEI,"Douglas Emmett, Inc. Common Stock",1409384.3373493976
+0,MD,"Mednax, Inc. Common Stock",1410959.0361445784
+0,TDC,Teradata Corporation Common Stock,1411363.8554216868
+0,CHRS,"Coherus BioSciences, Inc.",1411997.5903614457
+0,PNR,Pentair plc. Ordinary Share,1417867.469879518
+0,CCK,"Crown Holdings, Inc.",1428834.939759036
+0,TU,Telus Corporation Ordinary Shares,1430514.4578313252
+0,ILMN,"Illumina, Inc.",1431310.843373494
+0,VMC,Vulcan Materials,1436151.8072289156
+0,BGG,Briggs & Stratton Corporation Common Stock,1441380.7228915663
+0,CEQP,Crestwood Equity Partners LP,1442534.939759036
+0,JKS,JinkoSolar Holding Company Limited American Depositary Shares (each representing 4 Common Shares),1443939.7590361445
+0,FTSM,First Trust Enhanced Short Maturity ETF,1444010.843373494
+0,H,Hyatt Hotels Corporation Class A Common Stock,1444484.3373493976
+0,TNDM,"Tandem Diabetes Care, Inc.",1447446.9879518072
+0,ARR,"ARMOUR Residential REIT, Inc.",1448537.3493975904
+0,SNE,Sony Corporation Common Stock,1450337.3493975904
+0,APD,Air Products & Chemicals Inc,1450477.1084337349
+0,PSTI,"Pluristem Therapeutics, Inc.",1452162.6506024096
+0,KSU,Kansas City Southern,1457834.939759036
+0,GERN,Geron Corporation,1459365.060240964
+0,FRC,FIRST REPUBLIC BANK Common Stock,1459561.4457831325
+0,RHI,Robert Half International,1461098.7951807228
+0,HXL,Hexcel Corporation Common Stock,1465256.626506024
+0,RNG,"Ringcentral, Inc. Class A Common Stock",1467037.3493975904
+0,GEO,Geo Group Inc (The) REIT,1467698.7951807228
+0,CHKP,Check Point Software Technologies Ltd.,1469527.7108433736
+0,ELY,Callaway Golf Company Common Stock,1470242.1686746988
+0,PH,Parker,1471237.3493975904
+0,REG,Regency Centers Corporation Common Stock,1475298.7951807228
+0,NNN,National Retail Properties Common Stock,1475581.9277108433
+0,XYL,Xylem Inc.,1479716.8674698796
+0,BSBR,"Banco Santander Brasil SA American Depositary Shares, each representing one unit",1481819.2771084337
+0,ADS,Alliance Data Systems Corporation Common Stock,1487837.3493975904
+0,BHF,Brighthouse Financial Inc,1488498.7951807228
+0,PVH,PVH Corp. Common Stock,1490733.7349397591
+0,CMI,Cummins Inc.,1503718.0722891567
+0,PANW,"Palo Alto Networks, Inc. Common Stock",1503767.469879518
+0,TWOU,"2U, Inc.",1510954.21686747
+0,CONE,CyrusOne Inc,1513753.0120481928
+0,LTM,Life Time Fitness Common Stock,1514930.1204819276
+0,EMN,Eastman Chemical,1519456.626506024
+0,VMW,"Vmware, Inc. Common stock, Class A",1519591.5662650603
+0,CNO,"CNO Financial Group, Inc. Common Stock",1524857.8313253012
+0,DVA,DaVita HealthCare Partners Inc. Common Stock,1525548.1927710844
+0,CPAH,CounterPath Corporation,1527880.7228915663
+0,ORC,"Orchid Island Capital, Inc. Common Stock",1531302.4096385543
+0,HUM,Humana Inc. Common Stock,1531897.5903614457
+0,RSG,"Republic Services, Inc. Common Stock",1536104.8192771084
+0,FOSL,"Fossil Group, Inc.",1536554.21686747
+0,CROX,"Crocs, Inc.",1538722.8915662651
+0,AIV,Apartment Investment & Management,1539446.9879518072
+0,ASB,Associated Banc,1544193.9759036144
+0,SHLX,"Shell Midstream Partners, L.P. Common Units representing Limited Partner Interests",1547569.8795180724
+0,OC,Owens Corning Inc Common Stock New,1554043.373493976
+0,HLF,Herbalife Ltd. Common Stock,1561550.6024096385
+0,INXN,InterXion Holding N.V. Ordinary Shares (0.01 nominal value),1562850.88
+0,FBHS,"Fortune Brands Home & Security, Inc. Common Stock",1563607.2289156627
+0,RY,Royal Bank Of Canada Common Stock,1564307.2289156627
+0,AYR,Aircastle Limited Common Stock,1566302.9
+0,ATRS,"Antares Pharma, Inc.",1567820.4819277108
+0,VVUS,"VIVUS, Inc.",1569925.3012048192
+0,VVR,Invesco Senior Income Trust Common Stock (DE),1575671.0843373493
+0,BMRN,BioMarin Pharmaceutical Inc.,1576842.1686746988
+0,HDS,"HD Supply Holdings, Inc.",1577308.4337349397
+0,CHL,China Mobile Limited Common Stock,1578133.7349397591
+0,CUK,Carnival Plc ADS ADS,1579026.5060240964
+0,AON,Aon plc,1580071.0843373493
+0,STAG,"Stag Industrial, Inc. Common Stock",1582298.7951807228
+0,ROL,"Rollins, Inc. Common Stock",1582850.6024096385
+0,AMKR,"Amkor Technology, Inc.",1584413.253012048
+0,FLIR,"FLIR Systems, Inc.",1585643.373493976
+0,TV,Grupo Televisa S.A. Common Stock,1590679.5180722892
+0,OCN,Ocwen Financial Corporation NEW Common Stock,1591042.1686746988
+0,MDU,"MDU Resources Group, Inc. Common Stock",1593218.0722891567
+0,SMPL,Simplicity Bancorp Inc.,1593307.2289156627
+0,UL,Unilever PLC Common Stock,1593446.9879518072
+0,DTE,DTE Energy Co.,1596646.9879518072
+0,G,Genpact Limited Common Stock,1600068.6746987952
+0,TXRH,"Texas Roadhouse, Inc.",1601332.530120482
+0,AKER,Akers Biosciences Inc,1601393.9759036144
+0,SNSS,"Sunesis Pharmaceuticals, Inc.",1603274.6987951808
+0,CLB,Core Laboratories N.V. Common Stock,1605291.5662650603
+0,BLDR,"Builders FirstSource, Inc.",1606787.9518072288
+0,KPTI,Karyopharm Therapeutics Inc.,1608348.1927710844
+0,VEEV,Veeva Systems Inc. Class A Common Stock,1608614.4578313252
+0,FLO,"Flowers Foods, Inc. Common Stock",1612684.3373493976
+0,TRMB,Trimble Navigation Limited,1612740.9638554216
+0,LPX,Louisiana,1617442.1686746988
+0,ROIC,Retail Opportunity Investments Corp.,1617587.9518072288
+0,BNS,Bank Nova Scotia Halifax Pfd 3 Ordinary Shares,1619555.4216867469
+0,ECL,Ecolab Inc.,1622297.5903614457
+0,RIGL,"Rigel Pharmaceuticals, Inc.",1624212.0481927712
+0,XPO,"XPO Logistics, Inc.",1626414.4578313252
+0,YRCW,"YRC Worldwide, Inc.",1629620.4819277108
+0,EPR,EPR Properties Common Stock,1630314.4578313252
+0,MTOR,"Meritor, Inc. Common Stock",1639772.2891566264
+0,SC,Santander Consumer USA Holdings Inc. Common Stock,1640697.5903614457
+0,SBS,Companhia de saneamento Basico Do Estado De Sao Paulo,1642881.9277108433
+0,INTU,Intuit Inc.,1643496.3855421687
+0,SEE,Sealed Air Corporation Common Stock,1643706.0240963856
+0,SERV,"ServiceMaster Global Holdings, Inc. Common Stock",1644607.2289156627
+0,AAXJ,iShares MSCI All Country Asia ex Japan Index Fund,1644803.6144578313
+0,AUPH,Aurinia Pharmaceuticals Inc,1649157.8313253012
+0,FIVE,"Five Below, Inc.",1649660.2409638555
+0,JBL,"Jabil Circuit, Inc. Common Stock",1650704.8192771084
+0,SSI,"Stage Stores, Inc. Common Stock",1656583.1325301204
+0,TTI,"Tetra Technologies, Inc. Common Stock",1656795.1807228916
+0,VMBS,Vanguard Mortgage,1661383.1325301204
+0,KLAC,KLA,1663932.530120482
+0,ARWR,Arrowhead Research Corporation,1665162.6506024096
+0,ETR,Entergy Corporation Common Stock,1665208.4337349397
+0,GES,"Guess?, Inc. Common Stock",1665815.6626506024
+0,EW,Edwards Lifesciences Corporation Common Stock,1671566.2650602409
+0,SPCB,"SuperCom, Ltd.",1686115.6626506024
+0,HAS,"Hasbro, Inc.",1686707.2289156627
+0,CFX,Colfax Corporation Common Stock,1687487.9518072288
+0,DVAX,Dynavax Technologies Corporation,1687653.0120481928
+0,CREE,"Cree, Inc.",1688949.3975903615
+0,PWR,"Quanta Services, Inc. Common Stock",1693197.5903614457
+0,NTRS,Northern Trust Corp.,1697227.7108433736
+0,NYT,New York Times Company (The) Common Stock,1701696.3855421687
+0,CHTR,Charter Communications,1702051.8072289156
+0,PRMW,Primo Water Corporation,1704884.0
+0,ESRT,"Empire State Realty Trust, Inc. Class A Common Stock",1707222.8915662651
+0,BIOL,"Biolase, Inc.",1709966.2650602409
+0,UNFI,"United Natural Foods, Inc.",1714062.6506024096
+0,EGHT,8x8 Inc,1718692.7710843373
+0,OGE,OGE Energy Corporation Common Stock,1724602.4096385543
+0,TROW,"T. Rowe Price Group, Inc.",1729668.6746987952
+0,URI,"United Rentals, Inc.",1729857.8313253012
+0,IIVI,II,1730527.7108433736
+0,COUP,Coupons.com Incorporated Common Stock,1730613.253012048
+0,AL,Air Lease Corporation Class A Common Stock,1731218.0722891567
+0,EXPR,"Express, Inc. Common Stock",1733889.156626506
+0,ZBH,Zimmer Biomet Holdings,1737401.2048192772
+0,KYN,Kayne Anderson MLP Investment Company Common Stock,1738918.0722891567
+0,EXTR,"Extreme Networks, Inc.",1744866.2650602409
+0,CENX,Century Aluminum Company,1745957.8313253012
+0,PBYI,Puma Biotechnology Inc Common Stock,1747244.5783132531
+0,ITW,Illinois Tool Works Inc. Common Stock,1749800.0
+0,HALO,"Halozyme Therapeutics, Inc.",1751039.7590361445
+0,HPP,"Hudson Pacific Properties, Inc. Common Stock",1762687.9518072288
+0,UGI,UGI Corporation Common Stock,1763232.530120482
+0,HSIC,Henry Schein,1763520.4819277108
+0,EQM,"EQT Midstream Partners, LP Common Units representing Limited Partner Interests",1766060.2409638555
+0,DAR,Darling Ingredients Inc. Common Stock,1770113.253012048
+0,WAB,Westinghouse Air Brake Technologies Corporation Common Stock,1771726.5060240964
+0,FPT,Federated Premier Intermediate Municipal Income Fund Federated Premier Intermediate Municipal Income Fund,1774741.4457831325
+0,LMT,Lockheed Martin Corporation Common Stock,1774819.2771084337
+0,MGI,"Moneygram International, Inc.",1777198.7951807228
+0,AME,"AMETEK, Inc.",1778430.1204819276
+0,MITT,"AG Mortgage Investment Trust, Inc. Common Stock",1780307.2289156627
+0,NWBO,"Northwest Biotherapeutics, Inc.",1780402.4096385543
+0,GOL,Gol Linhas Aereas Inteligentes S.A. Sponsored ADR representing Pfd Shares,1784012.0481927712
+0,TROX,Tronox Limited Ordinary Shares Class A $0.01 par,1784271.0843373493
+0,DBD,"Diebold, Incorporated Common Stock",1786826.5060240964
+0,MDP,Meredith Corporation Common Stock,1787703.6144578313
+0,BVN,Buenaventura Mining Company Inc.,1790833.7349397591
+0,DGX,Quest Diagnostics,1793014.4578313252
+0,EDU,"New Oriental Education & Technology Group, Inc. Sponsored ADR representing 1 Ordinary Share (Cayman Islands)",1795646.9879518072
+0,HIMX,"Himax Technologies, Inc.",1799866.2650602409
+0,KBR,"KBR, Inc. Common Stock",1801654.21686747
+0,EWBC,"East West Bancorp, Inc.",1803279.5180722892
+0,LTRPA,"Liberty TripAdvisor Holdings, Inc.",1803371.0843373493
+0,ABC,AmerisourceBergen Corporation (Holding Co) Common Stock,1804274.6987951808
+0,SGMS,Scientific Games Corp,1805528.9156626507
+0,EXPD,Expeditors International,1810773.4939759036
+0,LLNW,"Limelight Networks, Inc.",1814977.1084337349
+0,BGS,"B&G Foods, Inc. B&G Foods, Inc. Common Stock",1822589.156626506
+0,HZNP,Horizon Pharma plc,1828344.5783132531
+0,BRO,"Brown & Brown, Inc. Common Stock",1830401.2048192772
+0,TSCO,Tractor Supply Company,1834151.8072289156
+0,FSLR,"First Solar, Inc.",1835743.373493976
+0,IQV,IQVIA Holdings Inc.,1838227.7108433736
+0,CMC,Commercial Metals Company Common Stock,1839742.1686746988
+0,LNT,Alliant Energy Corporation Common Stock,1840285.5421686748
+0,GLNG,Golar LNG Limited,1846849.3975903615
+0,FOX,Twenty,1852438.5542168675
+0,LL,"Lumber Liquidators Holdings, Inc Common Stock",1853093.9759036144
+0,UGP,Ultrapar Participacoes S.A. (New) American Depositary Shares (Each representing one Common Share),1853783.1325301204
+0,PBA,Pembina Pipeline Corp. Ordinary Shares (Canada),1856665.060240964
+0,BIG,"Big Lots, Inc. Common Stock",1858287.9518072288
+0,SWK,Stanley Black & Decker,1862160.2409638555
+0,VGSH,Vanguard Short,1870839.7590361445
+0,KEYS,Keysight Technologies Inc. Common Stock,1885869.8795180724
+0,LBTYA,Liberty Global plc,1888812.0481927712
+0,STZ,"Constellation Brands, Inc. Common Stock",1890754.21686747
+0,HBM,Hudbay Minerals Inc Ordinary Shares (Canada),1894300.0
+0,PTLA,"Portola Pharmaceuticals, Inc.",1898610.843373494
+0,VOYA,"Voya Financial, Inc. Common Stock",1902850.6024096385
+0,CHGG,"Chegg, Inc. Common Stock",1905819.2771084337
+0,PMT,PennyMac Mortgage Investment Trust Common Shares of Beneficial Interest,1906010.843373494
+0,CERS,Cerus Corporation,1911571.0843373493
+0,SPGI,"S&P Global, Inc.",1914366.2650602409
+0,WETF,"WisdomTree Investments, Inc.",1914719.2771084337
+0,HTA,"Healthcare Trust of America, Inc. Class A Common Stock",1918845.78313253
+0,GEL,"Genesis Energy, L.P. Common Units",1920386.746987952
+0,SRE,Sempra Energy Common Stock,1922946.9879518072
+0,PFG,Principal Financial Group Inc Common Stock,1933289.156626506
+0,CHD,Church & Dwight,1940636.1445783132
+0,NKTR,Nektar Therapeutics,1947831.3253012048
+0,ALKS,Alkermes plc,1950195.1807228916
+0,TEN,Tenneco Inc. Common Stock,1952338.5542168675
+0,FBP,First BanCorp. New Common Stock,1957366.2650602409
+0,AEE,Ameren Corp,1958578.313253012
+0,IRWD,"Ironwood Pharmaceuticals, Inc.",1959402.4096385543
+0,APH,Amphenol Corp,1963110.843373494
+0,VRTX,Vertex Pharmaceuticals Incorporated,1964769.8795180724
+0,SPPI,"Spectrum Pharmaceuticals, Inc.",1966551.8072289156
+0,CSTM,Constellium N.V. Ordinary Shares,1973674.6987951808
+0,ACOR,"Acorda Therapeutics, Inc.",1974289.156626506
+0,TRQ,Turquoise Hill Resources Ltd. Ordinary Shares,1981103.6144578313
+0,SPLK,Splunk Inc.,1982371.0843373493
+0,NSC,Norfolk Southern Corp.,1983127.7108433736
+0,TEF,Telefonica SA Common Stock,1983403.6144578313
+0,CHRW,"C.H. Robinson Worldwide, Inc.",1983820.4819277108
+0,WB,Weibo Corporation,1987298.7951807228
+0,LULU,lululemon athletica inc.,1992915.6626506024
+0,KMX,Carmax Inc,1994174.6987951808
+0,INCY,Incyte Corporation,1994500.0
+0,ANGI,"Angie's List, Inc.",1994661.4457831325
+0,WEC,Wec Energy Group Inc,1997514.4578313252
+0,FTNT,"Fortinet, Inc.",2003878.313253012
+0,ALB,Albemarle Corp,2007306.0240963856
+0,ERF,Enerplus Corporation Common Stock,2011736.1445783132
+0,BERY,"Berry Plastics Group, Inc. Common Stock",2013884.3373493976
+0,TGTX,"TG Therapeutics, Inc.",2016737.3493975904
+0,ERJ,Embraer S.A. Common Stock,2020661.4457831325
+0,DAN,Dana Holding Corporation Common Stock When,2029807.2289156627
+0,RUBI,"The Rubicon Project, Inc. Common Stock",2030831.3253012048
+0,CCC,Calgon Carbon Corporation Common Stock,2034053.0120481928
+0,AKAM,"Akamai Technologies, Inc.",2034269.8795180724
+0,BYD,Boyd Gaming Corporation Common Stock,2034983.1325301204
+0,GLPI,"Gaming and Leisure Properties, Inc.",2037608.4337349397
+0,UMPQ,Umpqua Holdings Corporation,2038901.2048192772
+0,VIV,"Telefonica Brasil, S.A. ADS",2055226.5060240964
+0,RES,"RPC, Inc. Common Stock",2060231.3253012048
+0,AMRS,"Amyris, Inc.",2063746.9879518072
+0,SVM,Silvercorp Metals Inc Ordinary Shares (Canada),2065112.0481927712
+0,OII,"Oceaneering International, Inc. Common Stock",2066084.3373493976
+0,GNTX,Gentex Corporation,2068863.8554216868
+0,DE,Deere & Company Common Stock,2072755.4216867469
+0,ADT,ADT Corporation Common Stock,2074051.8072289156
+0,CUBE,CubeSmart Common Shares,2074179.5180722892
+0,NGL,NGL ENERGY PARTNERS LP Common Units representing Limited Partner Interests,2074249.3975903615
+0,GD,General Dynamics Corporation Common Stock,2075836.1445783132
+0,ACGL,Arch Capital Group Ltd.,2076460.2409638555
+0,MMP,Magellan Midstream Partners L.P. Limited Partnership,2076727.7108433736
+0,QRVO,"Qorvo, Inc.",2077266.2650602409
+0,AER,Aercap Holdings N.V. Ordinary Shares,2081993.9759036144
+0,NVO,Novo Nordisk A/S Common Stock,2085868.6746987952
+0,BIIB,Biogen Inc.,2092822.8915662651
+0,SNV,Synovus Financial Corp. Common Stock,2094348.1927710844
+0,CIEN,Ciena Corporation Common Stock,2094785.5421686748
+0,ZEN,"Zendesk, Inc. Common Stock",2099383.1325301207
+0,BLMN,"Bloomin' Brands, Inc.",2105863.8554216865
+0,BDN,Brandywine Realty Trust Common Stock,2106346.987951807
+0,VSLR,"Vivint Solar, Inc. Common Stock",2106856.626506024
+0,CPRX,"Catalyst Pharmaceutical Partners, Inc.",2115033.734939759
+0,SEAS,"SeaWorld Entertainment, Inc. Common Stock",2115256.626506024
+0,DDR,DDR Corp. Common Stock,2116126.506024096
+0,RDN,Radian Group Inc. Common Stock,2117613.253012048
+0,COT,Cott Corporation Common Stock,2119595.657142857
+0,STL,Sterling Bancorp,2121609.638554217
+0,PEGI,Pattern Energy Group Inc.,2123603.6415094337
+0,TXT,Textron Inc. Common Stock,2128553.012048193
+0,VNO,Vornado Realty Trust,2128977.108433735
+0,PPG,"PPG Industries, Inc. Common Stock",2133778.313253012
+0,TMO,Thermo Fisher Scientific Inc Common Stock,2137660.2409638553
+0,CLX,Clorox Company (The) Common Stock,2147212.048192771
+0,ZIOP,ZIOPHARM Oncology Inc,2148351.807228916
+0,SBGI,"Sinclair Broadcast Group, Inc.",2150584.3373493976
+0,AGEN,Agenus Inc.,2150638.5542168673
+0,WWE,"World Wrestling Entertainment, Inc. Class A Common Stock",2170609.638554217
+0,ADSK,"Autodesk, Inc.",2174077.108433735
+0,UDR,UDR Inc,2174739.7590361447
+0,BDX,Becton Dickinson,2177301.204819277
+0,LXP,Lexington Realty Trust Common Stock,2183600.0
+0,APTV,Aptiv Plc,2184369.879518072
+0,TRV,The Travelers Companies Inc.,2184655.421686747
+0,ANTM,Anthem Inc.,2191339.7590361447
+0,ICLD,"InterCloud Systems, Inc",2192302.253012048
+0,YPF,YPF Sociedad Anonima Common Stock,2194660.2409638553
+0,TTWO,Take,2195642.1686746986
+0,URBN,"Urban Outfitters, Inc.",2200945.7831325303
+0,OUT,OUTFRONT Media Inc. Common Stock,2204124.0963855423
+0,EQR,Equity Residential Common Shares of Beneficial Interest,2204426.506024096
+0,THC,Tenet Healthcare Corporation Common Stock,2212425.301204819
+0,SLCA,"U.S. Silica Holdings, Inc. Common Stock",2213087.951807229
+0,SYK,Stryker Corporation Common Stock,2216073.493975904
+0,LSCC,Lattice Semiconductor Corporation,2216925.301204819
+0,KMB,Kimberly-Clark,2219284.3373493976
+0,ALL,Allstate Corporation (The) Common Stock,2219365.060240964
+0,SGMO,"Sangamo BioSciences, Inc.",2220304.8192771086
+0,DK,"Delek US Holdings, Inc. Common Stock",2221698.795180723
+0,LRCX,Lam Research Corporation,2232302.4096385543
+0,SSNC,"SS&C Technologies Holdings, Inc.",2232946.987951807
+0,CNHI,CNH Industrial N.V. Common Shares,2236085.5421686745
+0,TAP,Molson Coors Brewing Company Class B Common Stock,2257338.5542168673
+0,PGRE,"Paramount Group, Inc. Common Stock",2258436.1445783135
+0,CDNS,"Cadence Design Systems, Inc.",2266702.4096385543
+0,STNG,Scorpio Tankers Inc. Common Shares,2267889.1566265062
+0,FTR,Frontier Communications Corporation,2269937.1794871795
+0,EAT,"Brinker International, Inc. Common Stock",2271220.481927711
+0,GOOG,Google Inc.,2271292.7710843375
+0,AOS,A.O. Smith Corp,2271955.421686747
+0,RGSE,"Real Goods Solar, Inc.",2275592.0149253733
+0,CME,CME Group Inc.,2276386.746987952
+0,ORI,Old Republic International Corporation Common Stock,2289963.8554216865
+0,TD,Toronto Dominion Bank (The) Common Stock,2294713.253012048
+0,AXL,"American Axle & Manufacturing Holdings, Inc. Common Stock",2296127.7108433736
+0,ABR,Arbor Realty Trust Common Stock,2300985.5421686745
+0,CIT,CIT Group Inc (DEL) Common Stock,2303008.43373494
+0,BXMT,"Blackstone Mortgage Trust, Inc. Common Stock",2305889.1566265062
+0,VET,Vermilion Energy Inc. Common (Canada),2306846.987951807
+0,OSTK,"Overstock.com, Inc.",2309456.626506024
+0,XRAY,DENTSPLY International Inc.,2309510.8433734938
+0,CPRT,"Copart, Inc.",2311637.3493975904
+0,HTHT,"China Lodging Group, Limited",2326796.3855421687
+0,PCAR,PACCAR Inc.,2327273.493975904
+0,ACM,AECOM Common Stock,2331900.0
+0,GNMK,"GenMark Diagnostics, Inc.",2334912.048192771
+0,AEM,Agnico Eagle Mines Limited Common Stock,2339136.1445783135
+0,ADMA,ADMA Biologics Inc,2339138.5542168673
+0,ES,Eversource Energy,2339172.2891566264
+0,TEL,TE Connectivity Ltd. New Switzerland Registered Shares,2340591.56626506
+0,ARI,"Apollo Commercial Real Estate Finance, Inc",2343632.5301204817
+0,SKX,"Skechers U.S.A., Inc. Common Stock",2343904.8192771086
+0,BBL,BHP Billiton plc Sponsored ADR,2348686.746987952
+0,TCB,TCF Financial Corporation Common Stock,2352066.0240963856
+0,TTM,Tata Motors Ltd Tata Motors Limited,2355273.493975904
+0,SBH,"Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock",2355563.8554216865
+0,LADR,Ladder Capital Corp Class A Common Stock,2358509.638554217
+0,GPN,Global Payments Inc.,2362345.7831325303
+0,EL,"Estee Lauder Companies, Inc. (The) Common Stock",2372118.0722891567
+0,GOGO,Gogo Inc.,2378221.686746988
+0,A,Agilent Technologies Inc,2379475.9036144577
+0,KAR,"KAR Auction Services, Inc Common Stock",2380957.8313253014
+0,CTXS,Citrix Systems,2382010.8433734938
+0,ESI,"ITT Educational Services, Inc. Common Stock",2389398.795180723
+0,CAKE,The Cheesecake Factory Incorporated,2391807.2289156625
+0,MDRX,"Allscripts Healthcare Solutions, Inc.",2395718.0722891567
+0,NOW,"ServiceNow, Inc. Common Stock",2399759.0361445784
+0,GNC,"GNC Holdings, Inc. Class A Common Stock",2404362.6506024096
+0,PDCE,"PDC Energy, Inc.",2411706.0240963856
+0,AMT,American Tower Corporation (REIT) Common Stock,2420822.891566265
+0,EXK,Endeavour Silver Corporation Ordinary Shares (Canada),2428771.0843373495
+0,FTV,Fortive Corp,2430215.6626506024
+0,TRP,TransCanada Corporation Common Stock,2432330.120481928
+0,K,Kellogg Co.,2436846.987951807
+0,KNX,"Knight Transportation, Inc. Common Stock",2438551.807228916
+0,SCON,Superconductor Technologies Inc.,2440692.7710843375
+0,SFM,"Sprouts Farmers Market, Inc.",2445116.8674698793
+0,MMC,Marsh & McLennan,2449865.060240964
+0,HUN,Huntsman Corporation Common Stock,2450086.746987952
+0,DOC,Physicians Realty Trust Common Shares of Beneficial Interest,2450444.578313253
+0,SSL,Sasol Ltd. American Depositary Shares,2452015.6626506024
+0,PACB,"Pacific Biosciences of California, Inc.",2459951.807228916
+0,WDAY,"Workday, Inc. Common Stock",2469473.493975904
+0,EIX,Edison Int'l,2471560.2409638553
+0,CPG,Crescent Point Energy Corporation Ordinary Shares (Canada),2476949.3975903615
+0,ENBL,"Enable Midstream Partners, LP Common Units representing limited partner interests",2478997.5903614457
+0,QGEN,Qiagen N.V.,2479932.5301204817
+0,FNB,F.N.B. Corporation Common Stock,2484080.7228915663
+0,ALXN,"Alexion Pharmaceuticals, Inc.",2486539.7590361447
+0,TPH,"Tri Pointe Homes, Inc. Common Stock",2493290.361445783
+0,ABB,ABB Ltd Common Stock,2493565.060240964
+0,DG,Dollar General,2493660.2409638553
+0,RBS,Royal Bank of Scotland Group Plc New (The) ADS,2494130.120481928
+0,CCI,Crown Castle International Corp.,2496243.373493976
+0,DDD,3D Systems Corporation Common Stock,2506190.361445783
+0,SNY,Sanofi American Depositary Shares (Each repstg one,2507131.325301205
+0,EXAS,Exact Sciences Corporation,2510453.012048193
+0,BTU,Peabody Energy Corporation Common Stock,2513768.674698795
+0,ALK,Alaska Air Group Inc,2514860.2409638553
+0,RPAI,"Retail Properties of America, Inc. Class A Common Stock",2517430.120481928
+0,NAME,"Rightside Group, Ltd.",2522171.196969697
+0,TER,"Teradyne, Inc. Common Stock",2524075.9036144577
+0,ED,"Consolidated Edison, Inc. Common Stock",2528633.734939759
+0,GOOGL,Google Inc.,2529969.879518072
+0,DKS,Dick's Sporting Goods Inc Common Stock,2533637.3493975904
+0,VLY,Valley National Bancorp Common Stock,2540987.951807229
+0,WATT,Energous Corporation,2557100.0
+0,CERN,Cerner,2564996.3855421687
+0,ATI,Allegheny Technologies Incorporated Common Stock,2571620.481927711
+0,UN,Unilever NV Common Stock,2581189.1566265062
+0,CMS,CMS Energy Corporation Common Stock,2582050.6024096385
+0,ACWX,iShares MSCI ACWI ex US Index Fund,2586478.313253012
+0,MEET,"MeetMe, Inc.",2587873.493975904
+0,CB,Chubb Limited,2589610.8433734938
+0,PXD,Pioneer Natural Resources,2605656.626506024
+0,STLD,"Steel Dynamics, Inc.",2607926.506024096
+0,BKD,Brookdale Senior Living Inc. Common Stock,2611577.108433735
+0,OMI,"Owens & Minor, Inc. Common Stock",2614585.5421686745
+0,NTAP,NetApp,2622144.578313253
+0,BLL,Ball Corporation Common Stock,2628879.518072289
+0,SMFG,Sumitomo Mitsui Financial Group Inc Unsponsored American Depositary Shares (Japan),2629115.6626506024
+0,KBH,KB Home Common Stock,2630973.493975904
+0,ANF,Abercrombie & Fitch Company Common Stock,2633553.012048193
+0,PAYX,Paychex Inc.,2640822.891566265
+0,OMC,Omnicom Group,2641925.301204819
+0,LM,"Legg Mason, Inc. Common Stock",2647703.6144578313
+0,RLJ,RLJ Lodging Trust Common Shares of Beneficial Interest $0.01 par value,2655521.686746988
+0,CI,CIGNA Corp.,2660075.9036144577
+0,TS,Tenaris S.A. American Depositary Shares,2663632.5301204817
+0,NVS,Novartis AG Common Stock,2673331.325301205
+0,TIF,Tiffany & Co.,2679648.192771084
+0,ADP,"Automatic Data Processing, Inc.",2681272.2891566264
+0,MXIM,"Maxim Integrated Products, Inc.",2682138.5542168673
+0,OHI,"Omega Healthcare Investors, Inc. Common Stock",2684980.7228915663
+0,PVG,"Pretium Resources, Inc. Ordinary Shares (Canada)",2686159.0361445784
+0,CG,The Carlyle Group L.P.,2687027.7108433736
+0,CBL,"CBL & Associates Properties, Inc. Common Stock",2690159.0361445784
+0,SWKS,"Skyworks Solutions, Inc.",2695413.253012048
+0,CMA,Comerica Inc.,2696559.0361445784
+0,ZTS,Zoetis,2702475.9036144577
+0,SPR,"Spirit Aerosystems Holdings, Inc. Common Stock",2708622.891566265
+0,RIO,Rio Tinto Plc Common Stock,2713822.891566265
+0,NAVI,Navient Corporation,2723387.951807229
+0,LKQ,LKQ Corporation,2724824.0963855423
+0,BUD,Anheuser,2730997.5903614457
+0,HCA,"HCA Holdings, Inc. Common Stock",2732604.8192771086
+0,YUM,Yum! Brands Inc,2733101.204819277
+0,CXO,Concho Resources,2733886.746987952
+0,APO,"Apollo Global Management, LLC Class A Common Shares Representing Class A Limitied Liability Company Interests",2737166.265060241
+0,KWEB,KraneShares CSI China Internet ETF,2740925.301204819
+0,LNC,Lincoln National Corporation Common Stock,2749744.578313253
+0,PEB,Pebblebrook Hotel Trust Common Shares of Beneficial Interest,2775732.5301204817
+0,TUP,Tupperware Brands Corporation Common Stock,2778760.2409638553
+0,ISBC,"Investors Bancorp, Inc.",2786085.5421686745
+0,HDB,HDFC Bank Limited Common Stock,2791454.2168674697
+0,HLX,"Helix Energy Solutions Group, Inc. Common Stock",2798308.43373494
+0,CHS,"Chico's FAS, Inc. Common Stock",2809390.361445783
+0,MNKD,MannKind Corporation,2810184.3373493976
+0,AMH,American Homes 4 Rent Common Shares of Beneficial Interest,2811106.0240963856
+0,WM,"Waste Management, Inc. Common Stock",2824140.9638554216
+0,BBY,"Best Buy Co., Inc. Common Stock",2834551.807228916
+0,SBRA,"Sabra Healthcare REIT, Inc.",2839003.6144578313
+0,OI,Owens,2847475.9036144577
+0,DRE,Duke Realty Corporation Common Stock,2850398.795180723
+0,GEB,"General Electric Company 4.875% Notes due October 15, 2052",2851453.8518518517
+0,INFN,Infinera Corporation,2863865.060240964
+0,FNF,"FNF Group of Fidelity National Financial, Inc. Common Stock",2867457.8313253014
+0,CPB,Campbell Soup,2868291.56626506
+0,WMGI,"Wright Medical Group, Inc.",2873443.373493976
+0,HOLX,"Hologic, Inc.",2874771.0843373495
+0,XRX,Xerox Corporation Common Stock,2901084.3373493976
+0,PNC,"PNC Financial Services Group, Inc. (The) Common Stock",2907432.5301204817
+0,UNM,Unum Group Common Stock,2908736.1445783135
+0,PDBC,PowerShares DB Optimum Yield Diversified Commodity Strategy Portfolio,2909619.2771084337
+0,HOG,Harley-Davidson,2923130.120481928
+0,HFC,HollyFrontier Corporation Common Stock,2935690.361445783
+0,PEI,Pennsylvania Real Estate Investment Trust Common Stock,2943361.4457831327
+0,IGT,International Game Technology Common Stock,2955165.060240964
+0,TCO,"Taubman Centers, Inc. Common Stock",2969800.0
+0,NUE,Nucor Corporation Common Stock,2999285.5421686745
+0,PBI,Pitney Bowes Inc. Common Stock,3003587.951807229
+0,PLAY,"Dave & Buster's Entertainment, Inc.",3004666.265060241
+0,AEG,AEGON N.V. Common Stock,3010348.192771084
+0,DLPH,Delphi Automotive plc Ordinary Shares,3016298.795180723
+0,STM,STMicroelectronics N.V. Common Stock,3016467.4698795183
+0,BTE,Baytex Energy Corp,3020372.2891566264
+0,ADI,"Analog Devices, Inc.",3022556.626506024
+0,DERM,"Dermira, Inc.",3023057.257142857
+0,WRK,WestRock Company,3025251.807228916
+0,BNDX,Vanguard Total International Bond ETF,3043030.120481928
+0,INFO,IHS Markit Ltd.,3044425.301204819
+0,HP,Helmerich & Payne,3050559.0361445784
+0,FDX,FedEx Corporation Common Stock,3053377.108433735
+0,ACN,Accenture plc. Class A Ordinary Shares (Ireland),3058732.5301204817
+0,STX,Seagate Technology.,3058931.325301205
+0,TOL,Toll Brothers Inc. Common Stock,3059191.56626506
+0,CCO,"Clear Channel Outdoor Holdings, Inc. Clear Channel Outdoor Holdings, Inc. Class A Common Stock",3067768.674698795
+0,HRL,Hormel Foods Corp.,3078536.1445783135
+0,LPT,Liberty Property Trust,3083724.727272727
+0,CAH,"Cardinal Health, Inc. Common Stock",3090304.8192771086
+0,NEE,"NextEra Energy, Inc. Common Stock",3107563.8554216865
+0,FSM,Fortuna Silver Mines Inc Ordinary Shares (Canada),3117130.120481928
+0,UNT,Unit Corporation Common Stock,3117657.8313253014
+0,FET,"Forum Energy Technologies, Inc. Common Stock",3131257.8313253014
+0,ACST,"Acasti Pharma, Inc.",3136091.56626506
+0,AMGN,Amgen Inc,3164369.879518072
+0,CYH,"Community Health Systems, Inc. Common Stock",3167810.8433734938
+0,XEC,Cimarex Energy Co Common Stock,3178700.0
+0,ROST,Ross Stores,3178986.746987952
+0,RTN,Raytheon Company Common Stock,3183550.0
+0,TMHC,Taylor Morrison Home Corporation Class A Common Stock,3184866.265060241
+0,RLGY,Realogy Holdings Corp. Common Stock,3190350.6024096385
+0,TRIP,TripAdvisor,3192307.2289156625
+0,DRI,"Darden Restaurants, Inc. Common Stock",3216526.506024096
+0,YNDX,Yandex N.V.,3220674.698795181
+0,NRG,"NRG Energy, Inc. Common Stock",3221032.5301204817
+0,MFC,Manulife Financial Corporation Common Stock,3226048.192771084
+0,BPY,Brookfield Property Partners L.P. Limited Partnership Units,3229472.2891566264
+0,ATHX,"Athersys, Inc.",3231831.325301205
+0,DLTR,"Dollar Tree, Inc.",3239109.638554217
+0,CF,"CF Industries Holdings, Inc. Common Stock",3241454.2168674697
+0,BAM,Brookfield Asset Management Inc. Common Stock,3242485.5421686745
+0,VFC,V.F. Corp.,3247460.2409638553
+0,AXTA,Axalta Coating Systems Ltd. Common Shares,3257149.3975903615
+0,NWSA,News Corporation,3259250.6024096385
+0,HIG,"Hartford Financial Services Group, Inc. (The) Common Stock",3260191.56626506
+0,STAY,"Extended Stay America, Inc. Common Stock",3276960.2409638553
+0,BAX,Baxter International Inc.,3280822.891566265
+0,LYB,LyondellBasell Industries NV Ordinary Shares Class A (Netherlands),3289849.3975903615
+0,STT,State Street Corp.,3296262.6506024096
+0,CHK,Chesapeake Energy Corporation Common Stock,3296692.7710843375
+0,IMGN,"ImmunoGen, Inc.",3298142.1686746986
+0,FL,Foot Locker Inc,3309043.373493976
+0,DLR,Digital Realty Trust Inc,3344863.8554216865
+0,O,Realty Income Corporation,3358553.012048193
+0,CCJ,Cameco Corporation Common Stock,3362034.939759036
+0,AGRX,"Agile Therapeutics, Inc.",3364644.578313253
+0,MVIS,"Microvision, Inc.",3364763.8554216865
+0,ETN,"Eaton Corporation, PLC Ordinary Shares",3398421.686746988
+0,SIG,Signet Jewelers,3398859.0361445784
+0,OLN,Olin Corporation Common Stock,3401267.4698795183
+0,FOLD,"Amicus Therapeutics, Inc.",3440432.5301204817
+0,AVGO,Broadcom,3446154.2168674697
+0,COST,Costco Wholesale Corp.,3455551.807228916
+0,GRUB,GrubHub Inc. Common Stock,3468737.3493975904
+0,GCI,"Gannett Co., Inc. Common Stock",3476591.313253012
+0,PRU,Prudential Financial,3477285.5421686745
+0,DHR,Danaher Corporation Common Stock,3482848.192771084
+0,BHP,BHP Billiton Limited Common Stock,3498726.506024096
+0,TOT,Total S.A.,3506201.204819277
+0,AEP,American Electric Power,3506559.0361445784
+0,FLR,Fluor Corp.,3523367.4698795183
+0,PSEC,Prospect Capital Corporation,3554961.4457831327
+0,ZION,Zions Bancorp,3557046.987951807
+0,ADM,Archer-Daniels-Midland Co,3557737.3493975904
+0,IBB,iShares Nasdaq Biotechnology Index Fund,3569285.5421686745
+0,EA,Electronic Arts,3570208.43373494
+0,TSN,"Tyson Foods, Inc. Common Stock",3571549.3975903615
+0,IRM,Iron Mountain Incorporated (Delaware)Common Stock,3573039.7590361447
+0,PEG,Public Serv. Enterprise Inc.,3589990.361445783
+0,FRO,Frontline Ltd. Ordinary Shares,3610226.506024096
+0,ADBE,Adobe Systems Inc,3624112.048192771
+0,BWA,BorgWarner Inc. Common Stock,3624668.674698795
+0,LBTYK,Liberty Global plc,3625954.2168674697
+0,RWT,"Redwood Trust, Inc. Common Stock",3650501.204819277
+0,NXPI,NXP Semiconductors N.V.,3653500.0
+0,IP,International Paper,3680024.0963855423
+0,BGCP,"BGC Partners, Inc.",3682798.795180723
+0,DISH,DISH Network Corporation,3697795.1807228914
+0,W,Wayfair Inc. Class A Common Stock,3724025.301204819
+0,VCIT,Vanguard Intermediate,3730838.5542168673
+0,MT,Arcelor Mittal NY Registry Shares NEW,3744268.674698795
+0,CAR,"Avis Budget Group, Inc.",3750474.698795181
+0,BRFS,BRF S.A.,3753448.192771084
+0,UA,Under Armour Class C,3754380.7228915663
+0,HRB,Block H&R,3755109.638554217
+0,DISCK,Discovery Communications-C,3764268.674698795
+0,SIX,Six Flags Entertainment Corporation New Common Stock,3770630.120481928
+0,AGI,Alamos Gold Inc Ordinary Shares,3771912.048192771
+0,DRH,Diamondrock Hospitality Company Common Stock,3771996.3855421687
+0,EGO,Eldorado Gold Corporation Ordinary Shares,3776922.891566265
+0,NI,NiSource Inc Common Stock,3795037.3493975904
+0,PBF,PBF Energy Inc. Class A Common Stock,3795926.506024096
+0,AGN,"Allergan, Plc",3796850.6024096385
+0,MAS,Masco Corp.,3799644.578313253
+0,MUX,McEwen Mining Inc. Common Stock,3815395.1807228914
+0,MNST,Monster Beverage Corporation,3815651.807228916
+0,SID,Companhia Siderurgica Nacional S.A. Common Stock,3819814.4578313255
+0,BLDP,"Ballard Power Systems, Inc.",3822922.891566265
+0,XLNX,"Xilinx, Inc.",3825608.43373494
+0,CRC,California Resources Corporation Common Stock,3829644.578313253
+0,STOR,STORE Capital Corporation Common Stock,3856967.4698795183
+0,VSTM,"Verastem, Inc.",3871065.060240964
+0,IMMU,"Immunomedics, Inc.",3892350.6024096385
+0,HON,Honeywell Int'l Inc.,3898402.4096385543
+0,MBT,Mobile TeleSystems OJSC,3914155.421686747
+0,ARMK,Aramark Common Stock,3916579.518072289
+0,D,Dominion Energy,3921072.2891566264
+0,Z,"Zillow, Inc.",3922987.951807229
+0,PGR,Progressive Corporation (The) Common Stock,3925820.481927711
+0,FCAU,Fiat Chrysler Automobiles N.V. Common Shares,3950632.5301204817
+0,BRX,Brixmor Property Group Inc. Common Stock,3952522.891566265
+0,SHO,"Sunstone Hotel Investors, Inc. Sunstone Hotel Investors, Inc. Common Shares",3967856.626506024
+0,NUAN,"Nuance Communications, Inc.",3981624.0963855423
+0,QSR,Restaurant Brands International Inc. Common Shares,3992336.1445783135
+0,MCHP,Microchip Technology Incorporated,4002420.481927711
+0,PAAS,Pan American Silver Corp.,4004609.638554217
+0,EROS,Eros International PLC A Ordinary Shares,4005331.325301205
+0,WES,"Western Gas Partners, LP Limited Partner Interests",4012612.048192771
+0,EXEL,"Exelixis, Inc.",4013991.56626506
+0,GLUU,Glu Mobile Inc.,4027244.578313253
+0,EXPE,Expedia Inc.,4042463.8554216865
+0,VOD,Vodafone Group Plc,4048385.5421686745
+0,GME,Gamestop Corporation Common Stock,4061109.638554217
+0,SAVE,"Spirit Airlines, Inc.",4070700.0
+0,ZAYO,"Zayo Group Holdings, Inc. Common Stock",4076917.0212765955
+0,XEL,Xcel Energy Inc. Common Stock,4079308.43373494
+0,AMX,"America Movil, S.A.B. de C.V. American Depository Receipt Series L",4090648.192771084
+0,SPEX,Spherix Incorporated,4096685.4776119404
+0,AU,AngloGold Ashanti Limited Common Stock,4115898.795180723
+0,LEN,Lennar Corporation Class A Common Stock,4169112.048192771
+0,CS,Credit Suisse Group American Depositary Shares,4183766.265060241
+0,FEYE,"FireEye, Inc.",4187483.1325301207
+0,MOMO,Momo Inc.,4208953.012048192
+0,HES,Hess Corporation Common Stock,4214690.361445783
+0,COMM,"CommScope Holding Company, Inc.",4231465.0602409635
+0,GS,"Goldman Sachs Group, Inc. (The) Common Stock",4233232.530120482
+0,DFS,Discover Financial Services,4235037.34939759
+0,VG,Vonage Holdings Corp. Common Stock,4239554.21686747
+0,AZN,Astrazeneca PLC Common Stock,4243153.012048192
+0,DUK,Duke Energy Corporation (Holding Company) Common Stock,4250044.578313253
+0,CNK,"Cinemark Holdings Inc Cinemark Holdings, Inc. Common Stock",4258267.469879518
+0,GPK,Graphic Packaging Holding Company,4268404.819277109
+0,PSX,Phillips 66 Common Stock,4268913.253012048
+0,PAGP,"Plains Group Holdings, L.P. Class A Shares representing limited partner interests",4274362.65060241
+0,SPWR,SunPower Corporation,4289097.590361446
+0,ICE,Intercontinental Exchange Inc. Common Stock,4297877.108433735
+0,NWL,Newell Brands,4323475.903614458
+0,FANG,"Diamondback Energy, Inc.",4355345.78313253
+0,STWD,"STARWOOD PROPERTY TRUST, INC. Starwood Property Trust Inc.",4355879.518072289
+0,COF,Capital One Financial,4357379.518072289
+0,MCK,McKesson Corp.,4358279.518072289
+0,JNPR,"Juniper Networks, Inc. Common Stock",4389300.0
+0,ARCC,Ares Capital Corporation,4394002.409638554
+0,VCSH,Vanguard Short,4395534.9397590365
+0,KKR,KKR & Co. L.P. Common Units Representing Limited Partnership Interest,4415283.13253012
+0,NLSN,Nielsen N.V. Common Stock,4435572.289156627
+0,TRIL,Trillium Therapeutics Inc.,4435873.493975904
+0,FE,FirstEnergy Corporation Common Stock,4445640.963855422
+0,CTSH,Cognizant Technology Solutions Corporation,4460738.554216867
+0,UNP,Union Pacific,4465836.144578313
+0,CIM,Chimera Investment Corporation Common Stock,4465969.879518072
+0,FIS,"Fidelity National Information Services, Inc. Common Stock",4468304.819277109
+0,UBS,UBS Group AG Registered Ordinary Shares,4480948.192771085
+0,AFL,AFLAC Incorporated Common Stock,4487253.012048192
+0,VTR,Ventas Inc,4493842.168674699
+0,CLNY,"Colony Financial, Inc Common Stock",4495710.843373494
+0,VXUS,Vanguard Total International Stock ETF,4496506.024096386
+0,ADXS,"Advaxis, Inc.",4525484.337349397
+0,LLEX,"Lilis Energy, Inc.",4532132.530120482
+0,SE,Spectra Energy Corp Common Stock,4533750.602409638
+0,IR,Ingersoll-Rand PLC,4555349.397590362
+0,MMM,3M Company Common Stock,4555806.024096386
+0,LLY,Eli Lilly and Company Common Stock,4573519.277108434
+0,NOV,National Oilwell Varco Inc.,4583827.710843373
+0,WEN,Wendy's Company (The),4639255.421686747
+0,FISV,Fiserv Inc,4652990.361445783
+0,TAL,"TAL International Group, Inc. Common Stock",4687769.879518072
+0,BIDU,"Baidu, Inc.",4690224.096385542
+0,CIG,Comp En De Mn Cemig ADS American Depositary Shares,4691207.2289156625
+0,EMR,Emerson Electric Company Common Stock,4705198.795180723
+0,GSK,GlaxoSmithKline PLC Common Stock,4715620.481927711
+0,JWN,Nordstrom,4743027.710843373
+0,ARQL,"ArQule, Inc.",4760367.181818182
+0,PHM,Pulte Homes Inc.,4781627.710843373
+0,PLD,"ProLogis, Inc. Common Stock",4781636.144578313
+0,HLT,Hilton Worldwide Holdings Inc,4791773.493975904
+0,MUR,Murphy Oil Corporation Common Stock,4822186.746987952
+0,TRGP,"Targa Resources, Inc. Common Stock",4842159.036144578
+0,LYV,"Live Nation Entertainment, Inc. Common Stock",4881865.0602409635
+0,PBCT,People's United Financial,4900439.759036144
+0,AMTD,TD Ameritrade Holding Corporation Common Stock,4906531.325301205
+0,GPRO,"GoPro, Inc.",4939774.698795181
+0,CAT,"Caterpillar, Inc. Common Stock",4965490.361445783
+0,MPW,"Medical Properties Trust, Inc. common stock",4988491.566265061
+0,FOXA,Twenty,5007104.819277109
+0,SPG,Simon Property Group Inc,5014524.096385542
+0,HSBC,"HSBC Holdings, plc. Common Stock",5015239.759036144
+0,DO,"Diamond Offshore Drilling, Inc. Common Stock",5026209.049382716
+0,MIK,"The Michaels Companies, Inc.",5042160.240963856
+0,SLM,SLM Corporation,5045907.2289156625
+0,ACWI,iShares MSCI ACWI Index Fund,5060286.746987952
+0,GIS,General Mills,5086114.457831325
+0,NE,Noble Corporation Ordinary Shares (UK),5097642.168674699
+0,DXC,DXC Technology,5124526.506024096
+0,ERI,"Eldorado Resorts, Inc.",5139708.433734939
+0,NYCB,"New York Community Bancorp, Inc. Common Stock",5174812.048192771
+0,TPR,"Tapestry, Inc.",5189007.2289156625
+0,WY,Weyerhaeuser Corp.,5216913.253012048
+0,MCD,McDonald's Corp.,5218567.469879518
+0,CAG,"ConAgra Foods, Inc. Common Stock",5220131.325301205
+0,DHI,"D.R. Horton, Inc. Common Stock",5262267.469879518
+0,CNQ,Canadian Natural Resources Limited Common Stock,5265218.072289157
+0,ARNC,Arconic Inc,5272700.0
+0,DISCA,Discovery Communications-A,5275693.975903614
+0,MAR,Marriott International,5275710.843373494
+0,UPS,United Parcel Service,5281048.192771085
+0,MTG,MGIC Investment Corporation Common Stock,5306684.337349397
+0,IPG,"Interpublic Group of Companies, Inc. (The) Common Stock",5316762.65060241
+0,SYY,Sysco Corp.,5321874.698795181
+0,WYNN,"Wynn Resorts, Limited",5338634.9397590365
+0,MARK,"Remark Media, Inc.",5345485.542168675
+0,FLEX,Flextronics International Ltd.,5387109.638554217
+0,CL,Colgate-Palmolive,5387665.0602409635
+0,ETFC,E*TRADE Financial Corporation,5390448.192771085
+0,TMUS,T,5393956.626506024
+0,AG,First Majestic Silver Corp. Ordinary Shares (Canada),5408573.493975904
+0,SKT,"Tanger Factory Outlet Centers, Inc. Common Stock",5410067.469879518
+0,DHT,"DHT Holdings, Inc.",5420590.361445783
+0,MPLX,MPLX LP Common Units Representing Limited Partner Interests,5452674.698795181
+0,VLO,Valero Energy Corporation Common Stock,5487821.6867469875
+0,CSX,CSX Corp.,5501077.108433735
+0,AES,AES Corp,5503001.204819277
+0,BEN,Franklin Resources,5577620.481927711
+0,FAST,Fastenal Company,5580063.855421687
+0,AMZN,"Amazon.com, Inc.",5609036.144578313
+0,ENB,Enbridge Inc Common Stock,5610230.120481928
+0,MAC,Macerich,5613906.024096386
+0,MAT,"Mattel, Inc.",5666554.21686747
+0,UNH,UnitedHealth Group Incorporated Common Stock,5702685.542168675
+0,WTI,"W&T Offshore, Inc. Common Stock",5737103.614457832
+0,OKE,ONEOK,5749462.65060241
+0,GNW,Genworth Financial Inc Common Stock,5758373.493975904
+0,AMC,"AMC Entertainment Holdings, Inc. Class A Common Stock",5759871.084337349
+0,TGE,"TGC Industries, Inc.",5832563.397260274
+0,FTI,TechnipFMC,5889300.0
+0,GT,The Goodyear Tire & Rubber Company,5903779.518072289
+0,BCS,Barclays PLC Common Stock,5965890.361445783
+0,VBIV,VBI Vaccines Inc.,5993950.072289157
+0,LOW,"Lowe's Companies, Inc. Common Stock",6002959.036144578
+0,PTEN,Patterson,6003136.144578313
+0,WDC,Western Digital,6011122.891566265
+0,BBVA,Banco Bilbao Vizcaya Argentaria S.A. Common Stock,6017328.915662651
+0,MOS,Mosaic Company (The) Common Stock,6036673.493975904
+0,SO,Southern Co.,6082180.722891566
+0,AEO,"American Eagle Outfitters, Inc. Common Stock",6100304.819277109
+0,CNC,Centene Corporation,6108627.710843373
+0,CNX,CONSOL Energy Inc. Common Stock,6111477.108433735
+0,KIM,Kimco Realty Corporation Common Stock,6140872.289156627
+0,TGT,Target Corp.,6172766.265060241
+0,CLR,"Continental Resources, Inc. Common Stock",6177337.34939759
+0,PPL,PP&L Corporation Common Stock,6189462.65060241
+0,ZN,Zion Oil & Gas Inc,6239255.421686747
+0,PEP,PepsiCo Inc.,6254998.795180723
+0,RAD,Rite Aid Corporation Common Stock,6260432.530120482
+0,ENLC,"EnLink Midstream, LLC Common Units representing Limited Partner Interests",6274249.397590362
+0,CFG,"Citizens Financial Group, Inc. Common Stock",6293759.036144578
+0,HD,"Home Depot, Inc. (The) Common Stock",6332028.915662651
+0,AKRX,"Akorn, Inc.",6342246.987951808
+0,WPG,Washington Prime Group Inc. Common Stock,6374613.253012048
+0,ALLY,Ally Financial Inc. Common Stock,6384262.65060241
+0,AXP,American Express Co,6467343.373493976
+0,EOG,"EOG Resources, Inc. Common Stock",6479892.7710843375
+0,ODP,"Office Depot, Inc.",6514853.012048192
+0,PM,Philip Morris International,6519484.337349397
+0,SRNE,"Sorrento Therapeutics, Inc.",6524651.807228915
+0,MA,Mastercard Incorporated Common Stock,6525343.373493976
+0,FHN,First Horizon National Corporation Common Stock,6528607.2289156625
+0,ENDP,Endo International plc,6533850.602409638
+0,TWO,Two Harbors Investment Corp,6565156.626506024
+0,IBM,International Business Machines Corporation Common Stock,6652648.192771085
+0,GPOR,Gulfport Energy Corporation,6688448.192771085
+0,BX,The Blackstone Group L.P. Common Units Representing Limited Partnership Interests,6694768.674698795
+0,ENPH,"Enphase Energy, Inc.",6745133.734939759
+0,SABR,Sabre Corporation,6747309.638554217
+0,BK,The Bank of New York Mellon Corp.,6759873.493975904
+0,JCI,Johnson Controls International,6766238.554216867
+0,VIPS,"Vipshop Holdings Limited American Depositary Shares, each representing two ordinary shares",6770919.277108434
+0,GLW,Corning Incorporated Common Stock,6772865.0602409635
+0,MTDR,Matador Resources Company Common Stock,6781313.253012048
+0,UAA,Under Armour Class A,6792753.012048192
+0,CDE,"Coeur Mining, Inc. Common Stock",6805672.289156627
+0,MDT,Medtronic Inc. Common Stock,6809914.457831325
+0,TXN,Texas Instruments,6845349.397590362
+0,EXC,Exelon Corporation Common Stock,6942672.289156627
+0,LPI,"Laredo Petroleum, Inc. Common Stock",6998072.289156627
+0,KSS,Kohl's Corporation Common Stock,7045460.240963856
+0,IVZ,Invesco Plc New Common Stock,7046438.554216867
+0,PENN,"Penn National Gaming, Inc.",7101697.590361446
+0,WBA,Walgreens Boots Alliance,7140640.963855422
+0,COTY,Coty Inc. Class A Common Stock,7174245.78313253
+0,CLVS,"Clovis Oncology, Inc.",7176202.409638554
+0,CRM,Salesforce.com,7179415.662650603
+0,MYL,Mylan Inc.,7261045.78313253
+0,SM,SM Energy Company Common Stock,7277808.433734939
+0,AKS,AK Steel Holding Corporation Common Stock,7322700.3
+0,DOW,Dow Chemical Company (The) Common Stock,7422873.493975904
+0,IAG,Iamgold Corporation Ordinary Shares,7429426.506024096
+0,AXAS,Abraxas Petroleum Corporation,7431172.289156627
+0,BCRX,"BioCryst Pharmaceuticals, Inc.",7472662.65060241
+0,ING,"ING Group, N.V. Common Stock",7478193.975903614
+0,NAT,Nordic American Tankers Limited Common Stock,7481490.361445783
+0,CNP,CenterPoint Energy,7485854.21686747
+0,IVR,INVESCO MORTGAGE CAPITAL INC Common Stock,7515342.168674699
+0,FITB,Fifth Third Bancorp,7675922.891566265
+0,LVS,Las Vegas Sands Corp. Common Stock,7719131.325301205
+0,PAA,"Plains All American Pipeline, L.P. Common Stock",7747768.674698795
+0,MET,"MetLife, Inc. Common Stock",7772800.0
+0,DD,E.I. du Pont de Nemours and Company Common Stock,7854142.168674699
+0,WU,Western Union Company (The) Common Stock,7880371.084337349
+0,SU,Suncor Energy  Inc. Common Stock,7884428.915662651
+0,TNXP,Tonix Pharmaceuticals Holding Corp.,7968359.036144578
+0,AIG,"American International Group, Inc.",8076527.710843373
+0,NVAX,"Novavax, Inc.",8082886.746987952
+0,UTX,United Technologies Corporation Common Stock,8087838.567164179
+0,ATVI,"Activision Blizzard, Inc",8120177.108433735
+0,DB,Deutsche Bank AG Common Stock,8185360.240963856
+0,MNK,Mallinckrodt plc Ordinary Shares,8376363.855421687
+0,AA,Alcoa Inc. Common Stock,8407653.012048192
+0,AM,Antero Midstream Partners LP Common Units representing limited partner interests,8553604.819277108
+0,VAL,Valspar Corporation (The) Common Stock,8564896.38554217
+0,NFLX,Netflix Inc.,8567119.277108435
+0,CVE,Cenovus Energy Inc Common Stock,8572785.542168675
+0,GFI,Gold Fields Limited American Depositary Shares,8655832.530120483
+0,TTOO,"T2 Biosystems, Inc.",8656026.506024096
+0,HMY,Harmony Gold Mining Company Limited,8736818.072289156
+0,ERIC,Ericsson,8756439.759036144
+0,HBI,Hanesbrands Inc,8791146.987951808
+0,TJX,TJX Companies Inc.,8932084.337349398
+0,MDLZ,"Mondelez International, Inc.",9011462.65060241
+0,GPS,"Gap, Inc. (The) Common Stock",9056277.108433735
+0,NEM,Newmont Mining Corporation,9236293.975903615
+0,ABT,Abbott Laboratories Common Stock,9256869.879518073
+0,NKE,"Nike, Inc. Common Stock",9287527.710843373
+0,KHC,Kraft Heinz Co,9432891.56626506
+0,WMT,Wal,9475765.060240963
+0,SYF,Synchrony Financial Common Stock,9491274.69879518
+0,PYPL,PayPal,9510442.168674698
+0,IBN,ICICI Bank Limited Common Stock,9598121.686746988
+0,I,Intelsat S.A. Common Shares,9658073.493975904
+0,USB,U.S. Bancorp,9690830.120481927
+0,TSM,Taiwan Semiconductor Manufacturing Company Ltd.,9711462.65060241
+0,AMAT,"Applied Materials, Inc.",9735798.795180723
+0,HL,Hecla Mining Company Common Stock,9841779.518072288
+0,CY,Cypress Semiconductor Corporation,10062263.01369863
+0,JCP,"J.C. Penney Company, Inc. Holding Company Common Stock",10122414.457831325
+0,TVIX,Credit Suisse AG,10168718.072289156
+0,COG,Cabot Oil & Gas Corporation Common Stock,10194790.361445783
+0,HTZ,"Hertz Global Holdings, Inc Common Stock",10251442.168674698
+0,MPC,Marathon Petroleum Corporation Common Stock,10268178.313253012
+0,CVS,CVS Health Corporation Common Stock,10271881.927710844
+0,SAN,"Banco Santander, S.A. Sponsored ADR (Spain)",10367328.91566265
+0,PE,"Parsley Energy, Inc. Class A Common Stock",10419445.78313253
+0,COP,ConocoPhillips,10463607.228915663
+0,KOS,Kosmos Energy Ltd. Common Shares,10476508.43373494
+0,DVN,Devon Energy Corporation Common Stock,10584079.518072288
+0,NBL,Noble Energy Inc. Common Stock,10634463.855421687
+0,CX,"Cemex, S.A.B. de C.V. Sponsored ADR",10692921.686746988
+0,LB,L Brands Inc.,10694315.662650602
+0,JNJ,Johnson & Johnson,10699613.253012048
+0,PG,Procter & Gamble,10753839.759036144
+0,QEP,"QEP Resources, Inc. Common Stock",10754180.722891565
+0,LUV,Southwest Airlines Company Common Stock,10755214.457831325
+0,EQT,EQT Corporation,10787767.469879517
+0,MRVL,Marvell Technology Group Ltd.,10941680.722891565
+0,HPE,Hewlett Packard Enterprise,10951449.397590362
+0,KR,Kroger Company (The) Common Stock,11015636.144578313
+0,EPD,Enterprise Products Partners L.P. Common Stock,11096375.903614458
+0,JBLU,JetBlue Airways Corporation,11112360.240963856
+0,HTBX,"Heat Biologics, Inc.",11115590.361445783
+0,BSX,Boston Scientific Corporation Common Stock,11439208.43373494
+0,NRZ,New Residential Investment Corp. Common Stock,11565272.289156627
+0,QCOM,QUALCOMM Inc.,11579575.903614458
+0,ABBV,AbbVie Inc.,11678363.855421687
+0,AGNC,American Capital Agency Corp.,11686865.060240963
+0,PCG,PG&E Corp.,11765310.843373494
+0,MO,Altria Group Inc,11909208.43373494
+0,HST,Host Hotels & Resorts,12136471.08433735
+0,GGB,Gerdau S.A. Common Stock,12245173.493975904
+0,CLF,Cliffs Natural Resources Inc Common Stock,12541855.421686746
+0,WPX,"WPX Energy, Inc. Common Stock",12619662.65060241
+0,BBBY,Bed Bath & Beyond Inc.,12731193.975903615
+0,LYG,Lloyds Banking Group Plc American Depositary Shares,12781348.192771085
+0,V,Visa Inc.,12840267.469879517
+0,SBUX,Starbucks Corporation,12841395.180722892
+0,OPK,OPKO Health Inc. Common Stock,13132989.156626506
+0,CVX,Chevron Corp.,13154073.493975904
+0,MRK,"Merck & Company, Inc. Common Stock (new)",13178873.493975904
+0,CTL,"CenturyLink, Inc. Common Stock",13184851.807228915
+0,NYMT,"New York Mortgage Trust, Inc.",13267142.168674698
+0,KEY,KeyCorp Common Stock,13270390.361445783
+0,SCHW,Charles Schwab Corporation (The) Common Stock,13401461.445783133
+0,HBAN,Huntington Bancshares Incorporated,13537945.78313253
+0,NVDA,Nvidia Corporation,13563096.38554217
+0,AMRN,Amarin Corporation plc,13622710.843373494
+0,HPQ,HP Inc.,13667227.710843373
+0,ORCL,Oracle Corp.,13932018.072289156
+0,EBAY,eBay Inc.,13984468.674698794
+0,RF,Regions Financial Corp.,13993463.855421687
+0,ONTX,"Onconova Therapeutics, Inc.",14070854.21686747
+0,RCL,Royal Caribbean Cruises Ltd,14131208.43373494
+0,AR,Antero Resources Corporation Common Stock,14196830.120481927
+0,RRC,Range Resources Corporation Common Stock,14233938.554216867
+0,INFY,Infosys Limited American Depositary Shares,14827191.56626506
+0,GM,General Motors Company Common Stock,15749595.180722892
+0,BIOC,"Biocept, Inc.",15836978.313253012
+0,PLUG,"Plug Power, Inc.",15884090.361445783
+0,BMY,Bristol,15976292.771084337
+0,APA,Apache Corporation Common Stock,16019593.975903615
+0,BP,BP p.l.c. Common Stock,16029421.686746988
+0,SHIP,Seanergy Maritime Holdings Corp,16147185.542168675
+0,WMB,"Williams Companies, Inc. (The) Common Stock",16246465.060240963
+0,GRPN,"Groupon, Inc.",16584897.590361446
+0,X,United States Steel Corporation Common Stock,16635118.072289156
+0,JD,"JD.com, Inc.",16741609.638554217
+0,BABA,Alibaba Group Holding Limited American Depositary Shares each representing one Ordinary share,16911130.120481927
+0,NCLH,Norwegian Cruise Line Holdings Ltd.,16912700.0
+0,MS,Morgan Stanley,17666787.95180723
+0,DIS,The Walt Disney Company,17948369.879518073
+0,UAL,United Continental Holdings,18292328.91566265
+0,DNR,Denbury Resources Inc. Common Stock,18815553.012048192
+0,KMI,Kinder Morgan,18993554.21686747
+0,BBD,Banco Bradesco Sa American Depositary Shares,19028190.361445785
+0,SLB,Schlumberger N.V. Common Stock,19523265.060240965
+0,KO,Coca,19531473.493975904
+0,FCEL,"FuelCell Energy, Inc.",19784821.68674699
+0,MGM,MGM Resorts International,19898384.337349396
+0,GOLD,Randgold Resources Limited,19933480.722891565
+0,VZ,Verizon Communications,20043646.987951808
+0,TSLA,"Tesla Motors, Inc.",20273984.337349396
+0,TEVA,Teva Pharmaceutical Industries Limited American Depositary Shares,20289228.91566265
+0,NLY,Annaly Capital Management Inc Common Stock,20364274.69879518
+0,CZR,Caesars Entertainment Corporation,20494590.361445785
+0,KGC,Kinross Gold Corporation Common Stock,20856121.68674699
+0,WLL,Whiting Petroleum Corporation Common Stock,21007218.072289158
+0,JPM,JP Morgan Chase & Co. Common Stock,21145074.69879518
+0,GILD,"Gilead Sciences, Inc.",21612454.21686747
+0,ZNGA,Zynga Inc.,21715653.012048192
+0,TWTR,"Twitter, Inc. Common Stock",21997606.024096385
+0,FB,"Facebook, Inc.",22359533.734939758
+0,BA,Boeing Company,22443201.204819277
+0,M,Macy's Inc.,24148639.759036146
+0,C,"Citigroup, Inc. Common Stock",24174821.68674699
+0,ASTI,"Ascent Solar Technologies, Inc.",24651376.04819277
+0,HMNY,Helios and Matheson Analytics Inc,24733048.25301205
+0,MFA,"MFA Financial, Inc.",24790725.30120482
+0,AUY,Yamana Gold Inc. Ordinary Shares (Canada),25390374.69879518
+0,HAL,Halliburton Co.,25828232.53012048
+0,SWN,Southwestern Energy Company Common Stock,26560937.34939759
+0,SIRI,Sirius XM Holdings Inc.,26875078.31325301
+0,OAS,Oasis Petroleum Inc. Common Stock,27062506.024096385
+0,CMCSA,Comcast Corporation,27420922.891566265
+0,RIG,Transocean Ltd (Switzerland) Common Stock,28132560.240963854
+0,CPE,Callon Petroleum Company Common Stock,28653146.987951808
+0,S,Sprint Corporation Common Stock,29100616.390625
+0,CSCO,Cisco Systems,29166321.68674699
+0,MU,Micron Technology,29450774.69879518
+0,FCX,Freeport,29893368.674698796
+0,TOPS,TOP Ships Inc.,30218826.506024096
+0,DAL,Delta Air Lines Inc.,30285966.265060242
+0,PFE,Pfizer Inc.,30541179.51807229
+0,INTC,Intel Corp.,30775698.795180723
+0,VALE,VALE S.A.  American Depositary Shares Each Representing one common share,30810637.34939759
+0,INO,"Inovio Pharmaceuticals, Inc.",30965371.08433735
+0,OXY,Occidental Petroleum Corporation Common Stock,32306325.30120482
+0,ABEV,Ambev S.A. American Depositary Shares (Each representing 1 Common Share),32844692.77108434
+0,ITUB,Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares),33207107.22891566
+0,PBR,Petroleo Brasileiro S.A.,33271877.108433735
+0,XOM,Exxon Mobil Corporation Common Stock,33757483.13253012
+0,MRO,Marathon Oil Corp.,34100903.61445783
+0,TRNX,Tornier N.V.,34375732.530120485
+0,NOK,Nokia Corporation Sponsored American Depositary Shares,34887600.0
+0,WFC,Wells Fargo & Company Common Stock,34908139.759036146
+0,AAL,"American Airlines Group, Inc.",42704461.44578313
+0,CCL,Carnival Corporation Common Stock,43072689.15662651
+0,T,AT&T Inc.,44642551.807228915
+0,TQQQ,ProShares UltraPro QQQ,44966242.1686747
+0,AAPL,Apple Inc.,46684287.95180723
+0,MSFT,Microsoft Corporation,48716228.915662654
+0,SQQQ,ProShares UltraPro Short QQQ,56783960.240963854
+0,QQQ,"PowerShares QQQ Trust, Series 1",58102921.686746985
+0,NIO,"Nuveen Municipal Opportunity Fund, Inc. Common Stock",62630483.13253012
+0,AMD,"Advanced Micro Devices, Inc.",76167713.25301205
+0,BAC,Bank of America Corporation Common Stock,78693431.3253012
+0,AVP,"Avon Products, Inc. Common Stock",87999915.5
+0,F,Ford Motor,88031022.89156626
+0,GE,General Electric,93300846.9879518

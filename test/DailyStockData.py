@@ -44,7 +44,7 @@ def getOptionsChain(ticker, calls_or_puts):
 
   finaldf = pd.DataFrame()
   ticker = yf.Ticker(ticker)
-  stock_price = pdr.get_data_yahoo(ticker, end_date = date.today())['Close'][-1]
+  stock_price = data.get_data_yahoo(ticker, end_date = date.today())['Close'][-1]
   for opt_date in ticker.options:
     opt = ticker.option_chain(opt_date)
     if calls_or_puts == 'puts':
@@ -56,8 +56,8 @@ def getOptionsChain(ticker, calls_or_puts):
   return finaldf, stock_price
 
 
-def getUnusualOptionsActivity(ticker, calls_or_puts):
-    returned, stock_price = getOptionsChain(ticker, calls_or_puts)
+def getUnusualOptionsActivity(ticker, call_or_puts):
+    returned = getOptionsChain(ticker, call_or_puts)
 
     # Do some final formatting changes
     returned = returned.drop(columns = ['contractSymbol'])
@@ -69,6 +69,6 @@ def getUnusualOptionsActivity(ticker, calls_or_puts):
     returned.insert(4, '% OTM', returned['dist OTM']/stock_price*100)
     returned['value'] = returned['openInterest']*returned['lastPrice']*100
 
-    fileName = str(date.today()) + '_' + ticker +'_' + calls_or_puts + '.csv.gz'
+    fileName = str(date.today()) + '_' + symbol +'_' + call_or_puts + '.csv.gz'
 
     return returned
